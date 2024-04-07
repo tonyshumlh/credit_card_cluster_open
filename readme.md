@@ -3,7 +3,7 @@ This case is to develop a customer segmentation on credit card users to define m
 
 Data Source: [AnalytixLabs](www.analytixlabs.co.in), [Kaggle](https://www.kaggle.com/kashyaprahul/credit-card-segmentation)
 
-Refer to the [Case Study Document](https://github.com/tonyshumlh/credit_card_cluster_open/blob/master/datasets_49737_90340_CREDIT%20CARD%20-%20SEGMENTATION%20CASE%20STUDY.pdf) for more details of the open dataset
+Refer to the [Case Study Document](https://github.com/tonyshumlh/credit_card_cluster_open/blob/master/data/datasets_49737_90340_CREDIT%20CARD%20-%20SEGMENTATION%20CASE%20STUDY.pdf) for more details of the open dataset
 
 ## Contents
 
