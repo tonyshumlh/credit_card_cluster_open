@@ -2,9 +2,10 @@
 ## About
 This case explores customer segmentation on credit card users using machine learning clustering algorithms to develop targeted marketing strategies
 
-Data Source: [AnalytixLabs](www.analytixlabs.co.in), [Kaggle](https://www.kaggle.com/kashyaprahul/credit-card-segmentation)
+Analysis Blog: [Medium](https://medium.com/@tonyuglobe/leveraging-machine-learning-in-finance-industry-clustering-algorithms-for-targeted-marketing-de3b4da6124e)
 
-Refer to the [Case Study Document](https://github.com/tonyshumlh/credit_card_cluster_open/blob/master/data/datasets_49737_90340_CREDIT%20CARD%20-%20SEGMENTATION%20CASE%20STUDY.pdf) for more details of the open dataset
+> Data Source: [AnalytixLabs](www.analytixlabs.co.in), [Kaggle](https://www.kaggle.com/kashyaprahul/credit-card-segmentation)\
+> Refer to the [Case Study Document](https://github.com/tonyshumlh/credit_card_cluster_open/blob/master/data/datasets_49737_90340_CREDIT%20CARD%20-%20SEGMENTATION%20CASE%20STUDY.pdf) for more details of the open dataset
 
 ---
 ## Abstracts
